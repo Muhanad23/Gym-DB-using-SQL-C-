@@ -1,0 +1,6 @@
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\x64\Debug\Plexus.csprojAssemblyReference.cache
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\x64\Debug\Plexus.Login.resources
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\x64\Debug\Plexus.Management.resources
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\x64\Debug\Plexus.Properties.Resources.resources
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\x64\Debug\Plexus.csproj.GenerateResource.cache
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\x64\Debug\Plexus.csproj.CoreCompileInputs.cache

@@ -1,0 +1,69 @@
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\bin\Debug\Plexus.exe.config
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\bin\Debug\Plexus.exe
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\Debug\Plexus.csprojAssemblyReference.cache
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\Debug\Plexus.Login.resources
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\Debug\Plexus.Management.resources
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\Debug\Plexus.Properties.Resources.resources
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\Debug\Plexus.csproj.GenerateResource.cache
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\Debug\Plexus.csproj.CoreCompileInputs.cache
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\Debug\Plexus.csproj.CopyComplete
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\Debug\Plexus.exe
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\Debug\Plexus.pdb
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\bin\Debug\Plexus.pdb
+C:\Users\Mai\Downloads\Plexus\Plexus\bin\Debug\Plexus.exe.config
+C:\Users\Mai\Downloads\Plexus\Plexus\obj\Debug\Plexus.exe
+C:\Users\Mai\Downloads\Plexus\Plexus\obj\Debug\Plexus.pdb
+C:\Users\Mai\Downloads\Plexus\Plexus\bin\Debug\Plexus.exe
+C:\Users\Mai\Downloads\Plexus\Plexus\bin\Debug\Plexus.pdb
+C:\Users\Mai\Downloads\Plexus\Plexus\obj\Debug\Plexus.csprojResolveAssemblyReference.cache
+C:\Users\Mai\Downloads\Plexus\Plexus\obj\Debug\Plexus.Login.resources
+C:\Users\Mai\Downloads\Plexus\Plexus\obj\Debug\Plexus.Management.resources
+C:\Users\Mai\Downloads\Plexus\Plexus\obj\Debug\Plexus.Properties.Resources.resources
+C:\Users\Mai\Downloads\Plexus\Plexus\obj\Debug\Plexus.csproj.GenerateResource.Cache
+C:\Users\Mai\Downloads\Plexus\Plexus\obj\Debug\Plexus.Challenges.resources
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\bin\Debug\Plexus.exe.config
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\bin\Debug\Plexus.exe
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\bin\Debug\Plexus.pdb
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\obj\Debug\Plexus.Challenges.resources
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\obj\Debug\Plexus.Classes.resources
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\obj\Debug\Plexus.Login.resources
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\obj\Debug\Plexus.Management.resources
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\obj\Debug\Plexus.MyClasses.resources
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\obj\Debug\Plexus.Properties.Resources.resources
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\obj\Debug\Plexus.Schedule.resources
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\obj\Debug\Plexus.Trainee.resources
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\obj\Debug\Plexus.csproj.GenerateResource.Cache
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\obj\Debug\Plexus.exe
+D:\CMP2021\2nd Year\database\project\Plexus\Plexus\obj\Debug\Plexus.pdb
+C:\Users\Dell\Desktop\Plexus\Plexus\obj\Debug\Plexus.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Plexus\Plexus\obj\Debug\Plexus.Login.resources
+C:\Users\Dell\Desktop\Plexus\Plexus\obj\Debug\Plexus.Management.resources
+C:\Users\Dell\Desktop\Plexus\Plexus\obj\Debug\Plexus.Properties.Resources.resources
+C:\Users\Dell\Desktop\Plexus\Plexus\obj\Debug\Plexus.Trainee.resources
+C:\Users\Dell\Desktop\Plexus\Plexus\obj\Debug\Plexus.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Plexus\Plexus\obj\Debug\Plexus.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Plexus\Plexus\obj\Debug\Plexus.exe
+C:\Users\Dell\Desktop\Plexus\Plexus\obj\Debug\Plexus.pdb
+C:\Users\Dell\Desktop\Plexus\Plexus\bin\Debug\Plexus.exe.config
+C:\Users\Dell\Desktop\Plexus\Plexus\bin\Debug\Plexus.exe
+C:\Users\Dell\Desktop\Plexus\Plexus\bin\Debug\Plexus.pdb
+C:\Users\Dell\Desktop\Plexus\Plexus\obj\Debug\Plexus.csproj.CopyComplete
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\Debug\Plexus.trainer.resources
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\obj\Debug\Plexus.Trainee.resources
+D:\CMP2021\2nd Year\Plexus\Plexus\bin\Debug\Plexus.exe.config
+D:\CMP2021\2nd Year\Plexus\Plexus\obj\Debug\Plexus.exe
+D:\CMP2021\2nd Year\Plexus\Plexus\obj\Debug\Plexus.pdb
+D:\CMP2021\2nd Year\Plexus\Plexus\bin\Debug\Plexus.exe
+D:\CMP2021\2nd Year\Plexus\Plexus\bin\Debug\Plexus.pdb
+D:\CMP2021\2nd Year\Plexus\Plexus\obj\Debug\Plexus.csprojResolveAssemblyReference.cache
+D:\CMP2021\2nd Year\Plexus\Plexus\obj\Debug\Plexus.Login.resources
+D:\CMP2021\2nd Year\Plexus\Plexus\obj\Debug\Plexus.Management.resources
+D:\CMP2021\2nd Year\Plexus\Plexus\obj\Debug\Plexus.Properties.Resources.resources
+D:\CMP2021\2nd Year\Plexus\Plexus\obj\Debug\Plexus.Trainee.resources
+D:\CMP2021\2nd Year\Plexus\Plexus\obj\Debug\Plexus.trainer.resources
+D:\CMP2021\2nd Year\Plexus\Plexus\obj\Debug\Plexus.csproj.GenerateResource.Cache
+D:\CMP2021\2nd Year\Plexus\Plexus\obj\Debug\RdlCompile.cache
+D:\CMP2021\2nd Year\Plexus\Plexus\obj\Debug\RdlCompile.compiled
+C:\Users\Dell\Desktop\Plexus\Plexus\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dell\Desktop\Plexus\Plexus\obj\Debug\Plexus.trainer.resources
+E:\Muhanad\CUFE\Second year\1st semester\Database systemes\project\Plexus\Plexus\bin\Debug\Microsoft.SqlServer.Types.dll

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Plexus.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Class_TraineeTableAdapter" GeneratorDataComponentClassName="Class_TraineeTableAdapter" Name="Class_Trainee" UserDataComponentName="Class_TraineeTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="PLEXUSDB.dbo.Class_Trainee" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="statistics" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="statistics" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="statistics" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT class_Name,COUNT(*) as members
+FROM Class_Trainee
+Group bY class_Name
+</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="class_Name" DataSetColumn="class_Name" />
+              <Mapping SourceColumn="members" DataSetColumn="members" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TraineeTableAdapter" GeneratorDataComponentClassName="TraineeTableAdapter" Name="Trainee" UserDataComponentName="TraineeTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="PLEXUSDB.dbo.Trainee" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT Track ,count(*) as trackmembers
+FROM Trainee 
+group by Track
+</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Track" DataSetColumn="Track" />
+              <Mapping SourceColumn="trackmembers" DataSetColumn="trackmembers" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Class_Trainee" msprop:Generator_TableClassName="Class_TraineeDataTable" msprop:Generator_TableVarName="tableClass_Trainee" msprop:Generator_TablePropName="Class_Trainee" msprop:Generator_RowDeletingName="Class_TraineeRowDeleting" msprop:Generator_RowChangingName="Class_TraineeRowChanging" msprop:Generator_RowEvHandlerName="Class_TraineeRowChangeEventHandler" msprop:Generator_RowDeletedName="Class_TraineeRowDeleted" msprop:Generator_UserTableName="Class_Trainee" msprop:Generator_RowChangedName="Class_TraineeRowChanged" msprop:Generator_RowEvArgName="Class_TraineeRowChangeEvent" msprop:Generator_RowClassName="Class_TraineeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="class_Name" msprop:Generator_ColumnVarNameInTable="columnclass_Name" msprop:Generator_ColumnPropNameInRow="class_Name" msprop:Generator_ColumnPropNameInTable="class_NameColumn" msprop:Generator_UserColumnName="class_Name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="members" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnmembers" msprop:Generator_ColumnPropNameInRow="members" msprop:Generator_ColumnPropNameInTable="membersColumn" msprop:Generator_UserColumnName="members" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Trainee" msprop:Generator_TableClassName="TraineeDataTable" msprop:Generator_TableVarName="tableTrainee" msprop:Generator_TablePropName="Trainee" msprop:Generator_RowDeletingName="TraineeRowDeleting" msprop:Generator_RowChangingName="TraineeRowChanging" msprop:Generator_RowEvHandlerName="TraineeRowChangeEventHandler" msprop:Generator_RowDeletedName="TraineeRowDeleted" msprop:Generator_UserTableName="Trainee" msprop:Generator_RowChangedName="TraineeRowChanged" msprop:Generator_RowEvArgName="TraineeRowChangeEvent" msprop:Generator_RowClassName="TraineeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Track" msprop:Generator_ColumnVarNameInTable="columnTrack" msprop:Generator_ColumnPropNameInRow="Track" msprop:Generator_ColumnPropNameInTable="TrackColumn" msprop:Generator_UserColumnName="Track" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="trackmembers" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columntrackmembers" msprop:Generator_ColumnPropNameInRow="trackmembers" msprop:Generator_ColumnPropNameInTable="trackmembersColumn" msprop:Generator_UserColumnName="trackmembers" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
